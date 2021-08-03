@@ -1,0 +1,29 @@
+{
+  "name": "m-cli",
+  "version": "0.0.1",
+  "description": "通用脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mcli": "./bin/mcli"
+  },
+  "repository": "https://github.com/camellieeee/m-cli",
+  "keywords": [
+    "cli",
+    "脚手架"
+  ],
+  "author": "camellieeee",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "import-from": "^3.0.0",
+    "inquirer": "^6.5.1",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "osenv": "^0.1.5",
+    "resolve-from": "^5.0.0",
+    "yeoman-environment": "^2.4.0"
+  }
+}
