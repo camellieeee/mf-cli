@@ -1,5 +1,5 @@
 {
-  "name": "m-cli",
+  "name": "mf-cli",
   "version": "0.0.1",
   "description": "通用脚手架",
   "main": "index.js",
